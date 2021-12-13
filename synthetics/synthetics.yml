@@ -4,11 +4,11 @@ Parameters:
   TestUrl: 
     Description: The URL to test
     Type: String
-    Default: "https://www.amazon.com/"
+    Default: "https://twnanta.eiascore.biz/"
   CanaryName: 
     Description: Name of the canary test
     Type: String
-    Default: aws-5-mins-canary
+    Default: eiascorebiz
 Resources:
   CloudWatchSyntheticsRole:
     Type: AWS::IAM::Role
