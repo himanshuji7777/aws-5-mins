@@ -4,7 +4,7 @@ Parameters:
   TestUrl: 
     Description: The URL to test
     Type: String
-    Default: "https://twnanta.eiascore.biz/"
+    Default: "https://tenanta.eiascore.biz/"
   CanaryName: 
     Description: Name of the canary test
     Type: String
